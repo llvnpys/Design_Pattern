@@ -9,7 +9,7 @@
 
 </aside>
 
-![stratege](/Users/nayunseong/IdeaProjects/DesignPattern/src/behavioral/stratege.png)
+![stratege](./src/img/stratege.png)
 
 - 나는 행동과 꽥꽥거리는 행동을 쾝슐화한다.
 - 오리들을 묶을 Duck 추상 클래스를 만든다.
