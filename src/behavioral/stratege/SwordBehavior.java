@@ -1,10 +1,8 @@
 package behavioral.stratege;
 
-public class SwordBehavior implements WeaponBehavior{
-
-
+public class SwordBehavior implements WeaponBehavior {
     @Override
     public void useWeapon() {
-
+        System.out.println("위잉위잉");
     }
 }

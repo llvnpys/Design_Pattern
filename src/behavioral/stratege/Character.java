@@ -7,5 +7,9 @@ public abstract class Character {
         this.weapon = weapon;
     }
 
+    public WeaponBehavior getWeapon() {
+        return weapon;
+    }
+
     public abstract void fight();
 }
